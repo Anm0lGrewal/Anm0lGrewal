@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anm0lGrewal
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ??
+- 💞️ I’m looking to collaborate on flutter
 - 📧 Email: anmolgrewal.p@gmail.com
 
 <!---
